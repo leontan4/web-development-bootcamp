@@ -1,0 +1,18 @@
+body {
+	background-color: #cbf1f5;
+}
+
+hr {
+	border-top: 5px dotted white;
+	background-color: #cbf1f5;
+	height: 1px;
+	width: 10%;
+}
+
+h1 {
+	color: #66bfbf;
+}
+
+h3 {
+	color: #66bfbf;
+}
